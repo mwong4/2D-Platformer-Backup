@@ -1,0 +1,2152 @@
+fileFormatVersion: 2
+guid: 8dc5fa3dfccc27b4088d8094c7c48096
+timeCreated: 1534465074
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Carleton tv die anim_0
+    21300002: Carleton tv die anim_1
+    21300004: Carleton tv die anim_2
+    21300006: Carleton tv die anim_3
+    21300008: Carleton tv die anim_4
+    21300010: Carleton tv die anim_5
+    21300012: Carleton tv die anim_6
+    21300014: Carleton tv die anim_7
+    21300016: Carleton tv die anim_8
+    21300018: Carleton tv die anim_9
+    21300020: Carleton tv die anim_10
+    21300022: Carleton tv die anim_11
+    21300024: Carleton tv die anim_12
+    21300026: Carleton tv die anim_13
+    21300028: Carleton tv die anim_14
+    21300030: Carleton tv die anim_15
+    21300032: Carleton tv die anim_16
+    21300034: Carleton tv die anim_17
+    21300036: Carleton tv die anim_18
+    21300038: Carleton tv die anim_19
+    21300040: Carleton tv die anim_20
+    21300042: Carleton tv die anim_21
+    21300044: Carleton tv die anim_22
+    21300046: Carleton tv die anim_23
+    21300048: Carleton tv die anim_24
+    21300050: Carleton tv die anim_25
+    21300052: Carleton tv die anim_26
+    21300054: Carleton tv die anim_27
+    21300056: Carleton tv die anim_28
+    21300058: Carleton tv die anim_29
+    21300060: Carleton tv die anim_30
+    21300062: Carleton tv die anim_31
+    21300064: Carleton tv die anim_32
+    21300066: Carleton tv die anim_33
+    21300068: Carleton tv die anim_34
+    21300070: Carleton tv die anim_35
+    21300072: Carleton tv die anim_36
+    21300074: Carleton tv die anim_37
+    21300076: Carleton tv die anim_38
+    21300078: Carleton tv die anim_39
+    21300080: Carleton tv die anim_40
+    21300082: Carleton tv die anim_41
+    21300084: Carleton tv die anim_42
+    21300086: Carleton tv die anim_43
+    21300088: Carleton tv die anim_44
+    21300090: Carleton tv die anim_45
+    21300092: Carleton tv die anim_46
+    21300094: Carleton tv die anim_47
+    21300096: Carleton tv die anim_48
+    21300098: Carleton tv die anim_49
+    21300100: Carleton tv die anim_50
+    21300102: Carleton tv die anim_51
+    21300104: Carleton tv die anim_52
+    21300106: Carleton tv die anim_53
+    21300108: Carleton tv die anim_54
+    21300110: Carleton tv die anim_55
+    21300112: Carleton tv die anim_56
+    21300114: Carleton tv die anim_57
+    21300116: Carleton tv die anim_58
+    21300118: Carleton tv die anim_59
+    21300120: Carleton tv die anim_60
+    21300122: Carleton tv die anim_61
+    21300124: Carleton tv die anim_62
+    21300126: Carleton tv die anim_63
+    21300128: Carleton tv die anim_64
+    21300130: Carleton tv die anim_65
+    21300132: Carleton tv die anim_66
+    21300134: Carleton tv die anim_67
+    21300136: Carleton tv die anim_68
+    21300138: Carleton tv die anim_69
+    21300140: Carleton tv die anim_70
+    21300142: Carleton tv die anim_71
+    21300144: Carleton tv die anim_72
+    21300146: Carleton tv die anim_73
+    21300148: Carleton tv die anim_74
+    21300150: Carleton tv die anim_75
+    21300152: Carleton tv die anim_76
+    21300154: Carleton tv die anim_77
+    21300156: Carleton tv die anim_78
+    21300158: Carleton tv die anim_79
+    21300160: Carleton tv die anim_80
+    21300162: Carleton tv die anim_81
+    21300164: Carleton tv die anim_82
+    21300166: Carleton tv die anim_83
+    21300168: Carleton tv die anim_84
+    21300170: Carleton tv die anim_85
+    21300172: Carleton tv die anim_86
+    21300174: Carleton tv die anim_87
+    21300176: Carleton tv die anim_88
+    21300178: Carleton tv die anim_89
+    21300180: Carleton tv die anim_90
+    21300182: Carleton tv die anim_91
+    21300184: Carleton tv die anim_92
+    21300186: Carleton tv die anim_93
+    21300188: Carleton tv die anim_94
+    21300190: Carleton tv die anim_95
+    21300192: Carleton tv die anim_96
+    21300194: Carleton tv die anim_97
+    21300196: Carleton tv die anim_98
+    21300198: Carleton tv die anim_99
+    21300200: Carleton tv die anim_100
+    21300202: Carleton tv die anim_101
+    21300204: Carleton tv die anim_102
+    21300206: Carleton tv die anim_103
+    21300208: Carleton tv die anim_104
+    21300210: Carleton tv die anim_105
+    21300212: Carleton tv die anim_106
+    21300214: Carleton tv die anim_107
+    21300216: Carleton tv die anim_108
+    21300218: Carleton tv die anim_109
+    21300220: Carleton tv die anim_110
+    21300222: Carleton tv die anim_111
+    21300224: Carleton tv die anim_112
+    21300226: Carleton tv die anim_113
+    21300228: Carleton tv die anim_114
+    21300230: Carleton tv die anim_115
+    21300232: Carleton tv die anim_116
+    21300234: Carleton tv die anim_117
+    21300236: Carleton tv die anim_118
+    21300238: Carleton tv die anim_119
+    21300240: Carleton tv die anim_120
+    21300242: Carleton tv die anim_121
+    21300244: Carleton tv die anim_122
+    21300246: Carleton tv die anim_123
+    21300248: Carleton tv die anim_124
+    21300250: Carleton tv die anim_125
+    21300252: Carleton tv die anim_126
+    21300254: Carleton tv die anim_127
+    21300256: Carleton tv die anim_128
+    21300258: Carleton tv die anim_129
+    21300260: Carleton tv die anim_130
+    21300262: Carleton tv die anim_131
+    21300264: Carleton tv die anim_132
+    21300266: Carleton tv die anim_133
+    21300268: Carleton tv die anim_134
+    21300270: Carleton tv die anim_135
+    21300272: Carleton tv die anim_136
+    21300274: Carleton tv die anim_137
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Carleton tv die anim_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1298
+        width: 108
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Carleton tv die anim_1
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 1298
+        width: 108
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Carleton tv die anim_2
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 1298
+        width: 108
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Carleton tv die anim_3
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 1298
+        width: 108
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Carleton tv die anim_4
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 1298
+        width: 108
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Carleton tv die anim_5
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 1298
+        width: 108
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Carleton tv die anim_6
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 1298
+        width: 108
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Carleton tv die anim_7
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 1298
+        width: 108
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Carleton tv die anim_8
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 1298
+        width: 108
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Carleton tv die anim_9
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 1298
+        width: 108
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Carleton tv die anim_10
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 1298
+        width: 108
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Carleton tv die anim_11
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 1298
+        width: 108
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Carleton tv die anim_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1180
+        width: 108
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Carleton tv die anim_13
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 1180
+        width: 108
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Carleton tv die anim_14
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 1180
+        width: 108
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Carleton tv die anim_15
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 1180
+        width: 108
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Carleton tv die anim_16
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 1180
+        width: 108
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Carleton tv die anim_17
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 1180
+        width: 108
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Carleton tv die anim_18
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 1180
+        width: 108
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Carleton tv die anim_19
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 1180
+        width: 108
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Carleton tv die anim_20
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 1180
+        width: 108
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Carleton tv die anim_21
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 1180
+        width: 108
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Carleton tv die anim_22
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 1180
+        width: 108
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Carleton tv die anim_23
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 1180
+        width: 108
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Carleton tv die anim_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1062
+        width: 108
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Carleton tv die anim_25
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 1062
+        width: 108
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Carleton tv die anim_26
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 1062
+        width: 108
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Carleton tv die anim_27
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 1062
+        width: 108
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Carleton tv die anim_28
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 1062
+        width: 108
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Carleton tv die anim_29
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 1062
+        width: 108
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Carleton tv die anim_30
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 1062
+        width: 108
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Carleton tv die anim_31
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 1062
+        width: 108
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Carleton tv die anim_32
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 1062
+        width: 108
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Carleton tv die anim_33
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 1062
+        width: 108
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Carleton tv die anim_34
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 1062
+        width: 108
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Carleton tv die anim_35
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 1062
+        width: 108
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Carleton tv die anim_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 944
+        width: 108
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Carleton tv die anim_37
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 944
+        width: 108
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Carleton tv die anim_38
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 944
+        width: 108
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Carleton tv die anim_39
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 944
+        width: 108
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Carleton tv die anim_40
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 944
+        width: 108
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Carleton tv die anim_41
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 944
+        width: 108
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Carleton tv die anim_42
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 944
+        width: 108
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Carleton tv die anim_43
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 944
+        width: 108
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Carleton tv die anim_44
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 944
+        width: 108
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Carleton tv die anim_45
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 944
+        width: 108
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Carleton tv die anim_46
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 944
+        width: 108
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Carleton tv die anim_47
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 944
+        width: 108
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Carleton tv die anim_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 826
+        width: 108
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Carleton tv die anim_49
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 826
+        width: 108
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Carleton tv die anim_50
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 826
+        width: 108
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Carleton tv die anim_51
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 826
+        width: 108
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Carleton tv die anim_52
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 826
+        width: 108
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Carleton tv die anim_53
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 826
+        width: 108
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Carleton tv die anim_54
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 826
+        width: 108
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Carleton tv die anim_55
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 826
+        width: 108
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Carleton tv die anim_56
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 826
+        width: 108
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Carleton tv die anim_57
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 826
+        width: 108
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Carleton tv die anim_58
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 826
+        width: 108
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Carleton tv die anim_59
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 826
+        width: 108
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Carleton tv die anim_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 708
+        width: 108
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Carleton tv die anim_61
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 708
+        width: 108
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Carleton tv die anim_62
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 708
+        width: 108
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Carleton tv die anim_63
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 708
+        width: 108
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Carleton tv die anim_64
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 708
+        width: 108
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Carleton tv die anim_65
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 708
+        width: 108
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Carleton tv die anim_66
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 708
+        width: 108
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Carleton tv die anim_67
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 708
+        width: 108
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Carleton tv die anim_68
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 708
+        width: 108
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Carleton tv die anim_69
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 708
+        width: 108
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Carleton tv die anim_70
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 708
+        width: 108
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Carleton tv die anim_71
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 708
+        width: 108
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Carleton tv die anim_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 590
+        width: 108
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Carleton tv die anim_73
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 590
+        width: 108
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Carleton tv die anim_74
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 590
+        width: 108
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Carleton tv die anim_75
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 590
+        width: 108
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Carleton tv die anim_76
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 590
+        width: 108
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Carleton tv die anim_77
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 590
+        width: 108
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Carleton tv die anim_78
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 590
+        width: 108
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Carleton tv die anim_79
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 590
+        width: 108
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Carleton tv die anim_80
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 590
+        width: 108
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Carleton tv die anim_81
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 590
+        width: 108
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Carleton tv die anim_82
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 590
+        width: 108
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Carleton tv die anim_83
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 590
+        width: 108
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Carleton tv die anim_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 472
+        width: 108
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Carleton tv die anim_85
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 472
+        width: 108
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Carleton tv die anim_86
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 472
+        width: 108
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Carleton tv die anim_87
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 472
+        width: 108
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Carleton tv die anim_88
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 472
+        width: 108
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Carleton tv die anim_89
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 472
+        width: 108
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Carleton tv die anim_90
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 472
+        width: 108
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Carleton tv die anim_91
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 472
+        width: 108
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Carleton tv die anim_92
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 472
+        width: 108
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Carleton tv die anim_93
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 472
+        width: 108
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Carleton tv die anim_94
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 472
+        width: 108
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Carleton tv die anim_95
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 472
+        width: 108
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Carleton tv die anim_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 354
+        width: 108
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Carleton tv die anim_97
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 354
+        width: 108
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Carleton tv die anim_98
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 354
+        width: 108
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Carleton tv die anim_99
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 354
+        width: 108
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Carleton tv die anim_100
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 354
+        width: 108
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Carleton tv die anim_101
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 354
+        width: 108
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Carleton tv die anim_102
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 354
+        width: 108
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Carleton tv die anim_103
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 354
+        width: 108
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Carleton tv die anim_104
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 354
+        width: 108
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Carleton tv die anim_105
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 354
+        width: 108
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Carleton tv die anim_106
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 354
+        width: 108
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Carleton tv die anim_107
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 354
+        width: 108
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Carleton tv die anim_108
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 236
+        width: 108
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Carleton tv die anim_109
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 236
+        width: 108
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Carleton tv die anim_110
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 236
+        width: 108
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Carleton tv die anim_111
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 236
+        width: 108
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Carleton tv die anim_112
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 236
+        width: 108
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Carleton tv die anim_113
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 236
+        width: 108
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Carleton tv die anim_114
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 236
+        width: 108
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Carleton tv die anim_115
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 236
+        width: 108
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Carleton tv die anim_116
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 236
+        width: 108
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Carleton tv die anim_117
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 236
+        width: 108
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Carleton tv die anim_118
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 236
+        width: 108
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Carleton tv die anim_119
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 236
+        width: 108
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Carleton tv die anim_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 118
+        width: 108
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Carleton tv die anim_121
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 118
+        width: 108
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Carleton tv die anim_122
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 118
+        width: 108
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Carleton tv die anim_123
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 118
+        width: 108
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Carleton tv die anim_124
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 118
+        width: 108
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Carleton tv die anim_125
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 118
+        width: 108
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Carleton tv die anim_126
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 118
+        width: 108
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Carleton tv die anim_127
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 118
+        width: 108
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Carleton tv die anim_128
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 118
+        width: 108
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Carleton tv die anim_129
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 118
+        width: 108
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Carleton tv die anim_130
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 118
+        width: 108
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Carleton tv die anim_131
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 118
+        width: 108
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Carleton tv die anim_132
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 108
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Carleton tv die anim_133
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 0
+        width: 108
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Carleton tv die anim_134
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 0
+        width: 108
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Carleton tv die anim_135
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 0
+        width: 108
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Carleton tv die anim_136
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 0
+        width: 108
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Carleton tv die anim_137
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 0
+        width: 108
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
