@@ -13,6 +13,7 @@ public class InGameQuit : MonoBehaviour {
 		UIOpen = false;
 		myMenu = GameObject.FindGameObjectWithTag ("MainMenu");
 		myMenu.SetActive (false);
+		Time.timeScale = 1f;
 	}
 	
 	// Update is called once per frame
