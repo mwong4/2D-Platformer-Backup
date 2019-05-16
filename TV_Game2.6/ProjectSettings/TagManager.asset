@@ -13,6 +13,7 @@ TagManager:
   - pivot
   - GiveHealth
   - DeathWall
+  - hitIndicator
   layers:
   - Default
   - TransparentFX

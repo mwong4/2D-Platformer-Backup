@@ -14,18 +14,27 @@ public class Health : MonoBehaviour {
 
 	public GameObject myHealthBar;
 	public GameObject myPivot;
+	public GameObject myHitIndicator;
 
 	// Use this for initialization
 	void Start () {
 		Delay = false;
 		delayTime = 1;
 
+		myHitIndicator = GameObject.FindGameObjectWithTag ("hitIndicator");
+		hitMarkerScript hitMarker = myHitIndicator.GetComponent<hitMarkerScript> ();
+		
+
 		myHealthBar = GameObject.FindGameObjectWithTag ("HealthBar");
 		myPivot = GameObject.FindGameObjectWithTag ("pivot");
+
+		hitMarker.gotHit = true;
 	}
 	
 	// Update is called once per frame
 	void Update () {
+
+		hitMarkerScript hitMarker = myHitIndicator.GetComponent<hitMarkerScript> ();
 
 		if (HealthBar <= 0) {
 			Application.LoadLevel ("GameOver");
@@ -39,6 +48,9 @@ public class Health : MonoBehaviour {
 
 		if (Delay == true) {
 			delayTime = delayTime -= 0.1f;
+			hitMarker.gotHit = true;
+			myHitIndicator.SetActive (true);
+			
 		}
 
 		if (delayTime <= 0) {
