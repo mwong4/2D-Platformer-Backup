@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class Health : MonoBehaviour {
 
@@ -15,15 +16,17 @@ public class Health : MonoBehaviour {
 	public GameObject myHealthBar;
 	public GameObject myPivot;
 	public GameObject myHitIndicator;
+	public Image healthBarImage;
 
 	// Use this for initialization
 	void Start () {
 		Delay = false;
 		delayTime = 1;
 
+		Image healthBarImage = GameObject.FindWithTag("HealthBar").GetComponent<Image>();
+
 		myHitIndicator = GameObject.FindGameObjectWithTag ("hitIndicator");
 		hitMarkerScript hitMarker = myHitIndicator.GetComponent<hitMarkerScript> ();
-		
 
 		myHealthBar = GameObject.FindGameObjectWithTag ("HealthBar");
 		myPivot = GameObject.FindGameObjectWithTag ("pivot");
@@ -39,6 +42,16 @@ public class Health : MonoBehaviour {
 		if (HealthBar <= 0) {
 			Application.LoadLevel ("GameOver");
 		}
+
+
+		if (HealthBar == 25) {
+			healthBarImage.color = UnityEngine.Color.red;
+		}
+		else if (HealthBar > 25)
+		{
+			healthBarImage.color = UnityEngine.Color.white;
+		}
+
 
 		Change = (HealthBar * 0.01f) * 0.6784276f;
 		//myHealthBar.transform.localScale = new Vector3 (Change, 0.3234372f, 1f);
