@@ -781,6 +781,11 @@ Prefab:
       propertyPath: m_AngularDrag
       value: 2
       objectReference: {fileID: 0}
+    - target: {fileID: 114240296960501926, guid: 6a416847c1b6c43049ac9192afb577f7,
+        type: 2}
+      propertyPath: Speed
+      value: 2
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 6a416847c1b6c43049ac9192afb577f7, type: 2}
   m_IsPrefabParent: 0
@@ -1451,7 +1456,7 @@ GameObject:
   - component: {fileID: 102377592}
   m_Layer: 0
   m_Name: Point 5
-  m_TagString: Untagged
+  m_TagString: slowerCameraPoints
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1468,7 +1473,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   waitSeconds: 0
-  speedOut: 0.5
+  speedOut: 0.6
 --- !u!4 &102377593
 Transform:
   m_ObjectHideFlags: 0
@@ -1814,7 +1819,7 @@ GameObject:
   - component: {fileID: 126579894}
   m_Layer: 0
   m_Name: Point 15
-  m_TagString: Untagged
+  m_TagString: fasterCameraPoints
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3782,7 +3787,7 @@ GameObject:
   - component: {fileID: 344597350}
   m_Layer: 0
   m_Name: Point 14
-  m_TagString: Untagged
+  m_TagString: fasterCameraPoints
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3799,7 +3804,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   waitSeconds: 0
-  speedOut: 2.5
+  speedOut: 3
 --- !u!4 &344597351
 Transform:
   m_ObjectHideFlags: 0
@@ -4489,22 +4494,22 @@ Prefab:
     - target: {fileID: 224744831669903578, guid: e0d54db9730fdf94c8798e34dba79f9f,
         type: 2}
       propertyPath: m_AnchoredPosition.x
-      value: 387.75
+      value: 388.25
       objectReference: {fileID: 0}
     - target: {fileID: 224744831669903578, guid: e0d54db9730fdf94c8798e34dba79f9f,
         type: 2}
       propertyPath: m_AnchoredPosition.y
-      value: 0
+      value: -91.57645
       objectReference: {fileID: 0}
     - target: {fileID: 224744831669903578, guid: e0d54db9730fdf94c8798e34dba79f9f,
         type: 2}
       propertyPath: m_SizeDelta.x
-      value: 595.5
+      value: 596.5
       objectReference: {fileID: 0}
     - target: {fileID: 224744831669903578, guid: e0d54db9730fdf94c8798e34dba79f9f,
         type: 2}
       propertyPath: m_SizeDelta.y
-      value: 0
+      value: 123.15289
       objectReference: {fileID: 0}
     - target: {fileID: 224425878924886858, guid: e0d54db9730fdf94c8798e34dba79f9f,
         type: 2}
@@ -4519,22 +4524,22 @@ Prefab:
     - target: {fileID: 224425878924886858, guid: e0d54db9730fdf94c8798e34dba79f9f,
         type: 2}
       propertyPath: m_AnchoredPosition.x
-      value: 387.75
+      value: 388.25
       objectReference: {fileID: 0}
     - target: {fileID: 224425878924886858, guid: e0d54db9730fdf94c8798e34dba79f9f,
         type: 2}
       propertyPath: m_AnchoredPosition.y
-      value: 0
+      value: -214.72934
       objectReference: {fileID: 0}
     - target: {fileID: 224425878924886858, guid: e0d54db9730fdf94c8798e34dba79f9f,
         type: 2}
       propertyPath: m_SizeDelta.x
-      value: 595.5
+      value: 596.5
       objectReference: {fileID: 0}
     - target: {fileID: 224425878924886858, guid: e0d54db9730fdf94c8798e34dba79f9f,
         type: 2}
       propertyPath: m_SizeDelta.y
-      value: 0
+      value: 123.15289
       objectReference: {fileID: 0}
     - target: {fileID: 114436954962993800, guid: e0d54db9730fdf94c8798e34dba79f9f,
         type: 2}
@@ -4549,6 +4554,36 @@ Prefab:
     - target: {fileID: 1384973348955948, guid: e0d54db9730fdf94c8798e34dba79f9f, type: 2}
       propertyPath: m_IsActive
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 224745561758337676, guid: e0d54db9730fdf94c8798e34dba79f9f,
+        type: 2}
+      propertyPath: m_AnchorMin.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 224745561758337676, guid: e0d54db9730fdf94c8798e34dba79f9f,
+        type: 2}
+      propertyPath: m_AnchorMax.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 224745561758337676, guid: e0d54db9730fdf94c8798e34dba79f9f,
+        type: 2}
+      propertyPath: m_AnchoredPosition.x
+      value: 388.25
+      objectReference: {fileID: 0}
+    - target: {fileID: 224745561758337676, guid: e0d54db9730fdf94c8798e34dba79f9f,
+        type: 2}
+      propertyPath: m_AnchoredPosition.y
+      value: -214.72934
+      objectReference: {fileID: 0}
+    - target: {fileID: 224745561758337676, guid: e0d54db9730fdf94c8798e34dba79f9f,
+        type: 2}
+      propertyPath: m_SizeDelta.x
+      value: 676.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 224745561758337676, guid: e0d54db9730fdf94c8798e34dba79f9f,
+        type: 2}
+      propertyPath: m_SizeDelta.y
+      value: 349.45868
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: e0d54db9730fdf94c8798e34dba79f9f, type: 2}
@@ -4605,6 +4640,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   myCamera: {fileID: 0}
+  slowPoints: []
+  fastPoints: []
 --- !u!114 &401238514
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -4981,6 +5018,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   myCamera: {fileID: 0}
+  slowPoints: []
+  fastPoints: []
 --- !u!4 &450935357
 Transform:
   m_ObjectHideFlags: 0
@@ -8364,7 +8403,7 @@ GameObject:
   - component: {fileID: 825669152}
   m_Layer: 0
   m_Name: Point 13
-  m_TagString: Untagged
+  m_TagString: slowerCameraPoints
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -8381,7 +8420,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   waitSeconds: 0
-  speedOut: 0.5
+  speedOut: 1
 --- !u!4 &825669153
 Transform:
   m_ObjectHideFlags: 0
@@ -10792,7 +10831,7 @@ GameObject:
   - component: {fileID: 1141171397}
   m_Layer: 0
   m_Name: Point 7
-  m_TagString: Untagged
+  m_TagString: fasterCameraPoints
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -10809,7 +10848,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   waitSeconds: 0
-  speedOut: 2.5
+  speedOut: 3
 --- !u!4 &1141171398
 Transform:
   m_ObjectHideFlags: 0
@@ -13345,6 +13384,12 @@ Transform:
   m_PrefabParentObject: {fileID: 4493823360751024, guid: 06e85fa473420654091ea2e357c30da7,
     type: 2}
   m_PrefabInternal: {fileID: 1475243603}
+--- !u!114 &1476642389 stripped
+MonoBehaviour:
+  m_PrefabParentObject: {fileID: 114694744745388448, guid: e0d54db9730fdf94c8798e34dba79f9f,
+    type: 2}
+  m_PrefabInternal: {fileID: 397975979}
+  m_Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
 --- !u!1001 &1484243198
 Prefab:
   m_ObjectHideFlags: 0
@@ -14021,6 +14066,8 @@ MonoBehaviour:
   Change: 0
   myHealthBar: {fileID: 0}
   myPivot: {fileID: 0}
+  myHitIndicator: {fileID: 0}
+  healthBarImage: {fileID: 1476642389}
 --- !u!114 &1572656508
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -15007,7 +15054,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: Challenge Mode
+  m_Text: Activate Challenge Mode
 --- !u!222 &1650490144
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -17748,6 +17795,11 @@ Prefab:
       propertyPath: m_AngularDrag
       value: 2
       objectReference: {fileID: 0}
+    - target: {fileID: 114240296960501926, guid: 6a416847c1b6c43049ac9192afb577f7,
+        type: 2}
+      propertyPath: Speed
+      value: 2
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 6a416847c1b6c43049ac9192afb577f7, type: 2}
   m_IsPrefabParent: 0
@@ -18836,7 +18888,7 @@ GameObject:
   - component: {fileID: 2041332045}
   m_Layer: 0
   m_Name: Point 6
-  m_TagString: Untagged
+  m_TagString: fasterCameraPoints
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -18853,7 +18905,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   waitSeconds: 0
-  speedOut: 2.5
+  speedOut: 3
 --- !u!4 &2041332046
 Transform:
   m_ObjectHideFlags: 0
@@ -19189,7 +19241,7 @@ GameObject:
   - component: {fileID: 2059092965}
   m_Layer: 0
   m_Name: Point 8
-  m_TagString: Untagged
+  m_TagString: fasterCameraPoints
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -19206,7 +19258,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   waitSeconds: 0
-  speedOut: 0
+  speedOut: 3
 --- !u!4 &2059092966
 Transform:
   m_ObjectHideFlags: 0
